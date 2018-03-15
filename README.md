@@ -1,2 +1,2 @@
 # afk-bg
-Prevent being kicked for AFKing in BGs. Please do not abuse.
+Prevent being kicked for AFKing in BGs
